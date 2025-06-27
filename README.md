@@ -1,5 +1,7 @@
 # Wasabi Audio Plugin
 
+![Capture](https://github.com/user-attachments/assets/d4ca0442-47aa-4f54-bb7a-40f85c2a0bab)
+
 ## Overview
 
 Wasabi is a versatile audio distortion plugin developed using the JUCE framework, designed to deliver a range of distortion effects for music producers and audio engineers. Inspired by the bold and spicy flavors of wasabi, this plugin offers a user-friendly interface with intuitive controls to shape your sound, from subtle warmth to aggressive crunch.
@@ -37,9 +39,6 @@ Wasabi includes five carefully crafted presets to jumpstart your creativity:
 
 ### Bypass
 A toggleable **Bypass** button allows you to quickly enable or disable the effect, making it easy to compare the processed and unprocessed signal.
-
-## Screenshots
-![Capture](https://github.com/user-attachments/assets/d4ca0442-47aa-4f54-bb7a-40f85c2a0bab)
 
 ## Contributing
 Contributions are welcome! Please fork the repository, make your changes, and submit a pull request. For major changes, open an issue first to discuss your ideas.
